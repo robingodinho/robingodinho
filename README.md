@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.robingodinho.com](www.robingodinho.com)
 
-- 💬 Ask me about **Python, SQL, R, Java, HTML, Javascript, CSS, React**
+- 💬 Ask me about **Python, SQL, R, Java, HTML, Javascript, CSS, React.**
 
 - 📫 How to reach me **rgodinho736@gmail.com**
 
