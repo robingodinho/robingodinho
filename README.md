@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin Godinho</h1>
-<h3 align="center">A passionate Data Analyst from Maryland, USA. I am currently a Graduate student at the University of Maryland, in the Master's of Information Management program.</h3>
+<h3 align="center">A passionate Data Scientist / AI Developer from Maryland, USA. I am currently a Graduate student at the University of Maryland, in the Master's of Information Management program.</h3>
 
 - 🔭 I’m currently working on **Amazon Sentiment Analysis**
 
