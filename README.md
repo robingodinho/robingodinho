@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Robin Godinho - Resume](https://robingodinho.com/assets/Robin%20Godinho%20Resume.pdf)
 
-- ⚡ Fun fact **I play the piano and guitar.**
+- ⚡ Fun fact **I play the piano and I speak 4 Languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
