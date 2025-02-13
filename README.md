@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Generative AI, and Cloud Computing.**
 
-- 👨‍💻 All of my projects are available at [www.robingodinho.com](www.robingodinho.com)
+- 👨‍💻 All of my projects are available at [www.robingodinho.com](https://robingodinho.com/)
 
 - 💬 Ask me about **Python, SQL, R, Java, HTML, Javascript, CSS, React.**
 
